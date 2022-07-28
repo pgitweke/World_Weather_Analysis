@@ -10,7 +10,7 @@ The purpose of this project was to upgrade the current app by adding the weather
 
 The above map utilizes Google Maps API to filter and provide information the client may need regarding the weather and location of a specific location.
 
-![Travel Markers](WeatherPy_travel_map_markers.png)
+![Travel Map With Markers](WeatherPy_travel_map_markers.png)
 
 Popup markers with hotel name, city, country, weather description and max temp were included to visualize data or information at a glance rather than having to dig deeper.
 
